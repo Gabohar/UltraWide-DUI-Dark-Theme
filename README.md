@@ -41,7 +41,7 @@ A Foobar2000 UltraWide Dark Theme for DUI and fits perfect for any 21:9 screens.
 Compatible only with foobar 32-bit until remaining components will be updated to 64-bit!
 
 1. Close foobar2000
-3. Download the `UltraWide DUI Dark Theme` from <a href="https://github.com/RevenantX](https://mega.nz/file/Xd8lEDKB#o-qjRlYeLzkPMjoExtbyW_yBQZxlKSD_BlsjgNu__MI" target="_blank">HERE</a>.
+3. Download the `UltraWide DUI Dark Theme` from <a href="https://mega.nz/file/Xd8lEDKB#o-qjRlYeLzkPMjoExtbyW_yBQZxlKSD_BlsjgNu__MI" target="_blank">HERE</a>.
 4. Copy each folder into your foobar `profile` directory (`foo_spider_monkey_panel`, `configuration`, `user-components` and `Milkdrop`).
                                                                                  
 6. + STANDARD foobar2000 installation: your foobar `profile` directory is in here: `%AppData%\foobar2000 or %AppData%\foobar2000-v2`
