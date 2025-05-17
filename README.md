@@ -41,30 +41,32 @@ A Foobar2000 UltraWide Dark Theme for DUI and fits perfect for any 21:9 screens.
 Compatible only with foobar 32-bit until remaining components will be updated to 64-bit!
 
 1. Close foobar2000
-2. Download the `UltraWide DUI Dark Theme` from <a href="https://mega.nz/file/Xd8lEDKB#o-qjRlYeLzkPMjoExtbyW_yBQZxlKSD_BlsjgNu__MI" target="_blank">HERE</a>
-3. Copy each folder into your foobar `profile` directory (`foo_spider_monkey_panel`, `configuration`, `user-components` and `Milkdrop`)
+2. Download the `UltraWide DUI Dark Theme` from <a href="https://mega.nz/file/PQNTCDCA#BrtjuOSY1yHqbjRpBx-_ChpXhJxhlgrkcLVP4Imsqbw" target="_blank">HERE</a>
+3. Copy each folder into your foobar `profile` directory (`foo_spider_monkey_panel`, `configuration`, `user-components` and `milkdrop v2.25c`)
                                                                                  
     + STANDARD foobar2000 installation: your foobar `profile` directory is in here: `%AppData%\foobar2000 or %AppData%\foobar2000-v2`
     + PORTABLE foobar2000 installation: your foobar `profile` directory is in a folder named `"profile"` inside your installation directory
 
  4. Install `fontawesome-webfont` from <a href="https://github.com/FortAwesome/Font-Awesome/raw/refs/heads/4.x/fonts/fontawesome-webfont.ttf" target="_blank">HERE</a>
  5. Run foobar2000
- 6. Extract `UltraWide DUI Dark Theme vX.x` from the `ZIP` and `import` in `FILE` > `PREFERENCES` > `DEFAULT USER INTERFACE` > `IMPORT THEME` or `DRAG & DROP` the `FILE` to foobar2000 `MAIN WINDOW`.
+ 6. Extract `UltraWide DUI Dark Theme vX.x.fth` from the `ZIP` and `import` in `FILE` > `PREFERENCES` > `DEFAULT USER INTERFACE` > `IMPORT THEME` or `DRAG & DROP` the `FILE` to foobar2000 `MAIN WINDOW`.
  7. 📢 To Run `MILKDROP 2`: Configure the "Winamp directory" in `SHPECK` for the visualisations: ➡️ `FILE` > `PREFERENCES` > `VISUALISATIONS` > `SHPECK`.
-  Click on the `...` button in the `TOP RIGHT CORNER` to browse and select the directory `FOOBAR_PROFILE_DIRECTORY\Milkdrop\Winamp` and click `AGREE`.
-    + Now, click `MilkDrop v2.25 / MilkDrop v2.25` and click `AGREE`. Then go to the `MilkDrop 2 TAB` of the THEME at `the RIGHT CORNER`. Right click and select `Autostart Plugin` > `MilkDrop v2.25 / MilkDrop v2.25`.
+    Click on the `...` button in the `TOP RIGHT CORNER` to browse and select the directory `FOOBAR_PROFILE_DIRECTORY\milkdrop v2.25c\winamp` and click `OK`.
+ 8. + Now, click `MilkDrop v2.25c / MilkDrop v2.25c` and click `OK`. Then go to the `MilkDrop 2 TAB` of the `THEME` at `the RIGHT CORNER`. Right click and select `Autostart Plugin` > `MilkDrop v2.25c / MilkDrop v2.25c`.
     + ⚠️ Check `STOP WHEN HIDDEN` option is `UNCHECKED`
-
- 9. 🔵 OPTIONAL: To install some `PRESET PACKS` that are included: Extract `milkdrop 2 presets pack` to __MILKDROP 2__ subfolder `FOOBAR_PROFILE_DIRECTORY\milkdrop 2\Winamp\Plugins\milkdrop2\presets`
-
+ 9. 🔵 OPTIONAL: To install some `PRESET PACKS` that are included: Extract `milkdrop 2 presets pack` to `MILKDROP 2` subfolder `FOOBAR_PROFILE_DIRECTORY\milkdrop v2.25c\winamp\plugins\milkdrop2\presets`
+ 
+ 10. For Library Tree to work properly, you must have your `MUSIC LIBRARY` configured. This theme prefers to display artists and albums based on a `directory structure`, __not metadata__. You can configure it anyway:
+    Click on the `...` button in the `TOP RIGHT CORNER` of any of the 3 columns and then `VIEWS`.
+    
 ---------------------------------------------------------------------------------------------------------------
 
 ## SCRIPTS AND OTHER CONFIGURATIONS:
 
-9. In `ZIP` file extract `AlbumArtDownloaderXUI-1.05` folder to the `profile` directory. Then click `FILE` > `PREFERENCES` > `TOOLS` > `RUN SERVICES`, click `Download Covers` > and in `PATH` add the next __STRING__: `FOOBAR_PROFILE_DIRECTORY\AlbumArtDownloaderXUI-1.05\AlbumArt.exe /ar "%album artist%" /al "%album%" /p "$replace(%path%,%filename_ext%,)%artist% - %album%.%%extension%%" /minSize 300 /coverType front`. Then click `OK`
-10. Go to `FILE` > `PREFERENCE` and on `OPENLYRICS` component go to `SEARCH SOURCES` > `LOCAL FILES` and `MAKE` a subfolder on the `"profile"` folder to `DOWNLOAD AND SAVE 💾` the `LYRICS 🎵`
-
-11. Enjoy!
+11. In `ZIP` file extract `AlbumArtDownloaderXUI-1.05` folder to the `profile` directory. Then click `FILE` > `PREFERENCES` > `TOOLS` > `RUN SERVICES`, click `Download Covers` > and in `PATH` add the next __STRING__: `FOOBAR_PROFILE_DIRECTORY\AlbumArtDownloaderXUI-1.05\AlbumArt.exe /ar "%album artist%" /al "%album%" /p "$replace(%path%,%filename_ext%,)%artist% - %album%.%%extension%%" /minSize 300 /coverType front`. Then click `OK`
+12. To run `AlbumArtDownloaderXUI-1.05` on foobar2000: __Right click__ an _album_ or _track_ in your _PLAYLIST_ and click on `Run Service` > `Download Covers` ⏬
+13. Go to `FILE` > `PREFERENCES` and on `OPENLYRICS` component go to `SEARCH SOURCES` > `LOCAL FILES` and `MAKE` a subfolder in the `"profile"` folder to `DOWNLOAD AND SAVE 💾` the `LYRICS 🎵`
+14. Enjoy!
 
 ## CREDITS
 
@@ -77,7 +79,9 @@ Compatible only with foobar 32-bit until remaining components will be updated to
 - <a href="https://github.com/gix" target="_blank">gix</a> foo_scrobble
 - <a href="https://github.com/foosion" target="_blank">foosion</a> Shorten decoder
 - <a href="https://github.com/Yirkha" target="_blank">Yirkha</a> SHPECK
-- <a href="https://github.com/xeiraex" target="_blank">xeiraex</a> MilkDrop 2.25
+- <a href="https://github.com/geissomatik" target="_blank">Ryan Geiss</a> Original MilkDrop author and curator of `favorite_presets_2021_01_03`
 - <a href="https://github.com/TheQwertiest" target="_blank">TheQwertiest</a> Spider Monkey Panel, which powers most of this theme foo_spider_monkey_panel
 - <a href="https://github.com/Case" target="_blank">Case</a> Waveform Minibar (mod), TAK Decoder, Taskbar Playback Progress Bar, TTA Audio Decoder  
-- <a href="https://github.com/WilB" target="_blank">WilB</a> Library Tree panel, Biography panel
+- <a href="https://github.com/WilB" target="_blank">WilB</a> Library Tree Panel, Biography Panel
+- <a href="https://www.patreon.com/posts/pack-nestdrop-91682111" target="_blank">ISOSCELES</a> MilkDrop 2 Preset Packs
+- <a href="https://forums.winamp.com/forum/visualizations/milkdrop/milkdrop-presets/309644-waltra-milkdrop-preset-pack-77-presets" target="_blank">Waltra</a> MilkDrop 2 Preset Pack
