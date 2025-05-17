@@ -50,10 +50,12 @@ Compatible only with foobar 32-bit until remaining components will be updated to
  4. Install `fontawesome-webfont` from <a href="https://github.com/FortAwesome/Font-Awesome/raw/refs/heads/4.x/fonts/fontawesome-webfont.ttf" target="_blank">HERE</a>
  5. Run foobar2000
  6. Extract `UltraWide DUI Dark Theme vX.x` from the `ZIP` and `import` in `FILE` > `PREFERENCES` > `DEFAULT USER INTERFACE` > `IMPORT THEME` or `DRAG & DROP` the `FILE` to foobar2000 `MAIN WINDOW`.
- 7. 📢 To Run `MILKDROP 2`: Configure the "Winamp directory" in `SHPECK` for the visualisations: ➡️ `FILE` > `PREFERENCES` > `VISUALISATIONS` > `SHPECK`. Click on the `...` button in the `TOP RIGHT CORNER` to browse and select the directory `FOOBAR_PROFILE_DIRECTORY\Milkdrop\Winamp` and click `AGREE`.
-    Now, click `MilkDrop v2.25 / MilkDrop v2.25` and click `AGREE`. Then go to the `MilkDrop 2 TAB` of the THEME at `the RIGHT CORNER`. Right click and select `Autostart Plugin` > `MilkDrop v2.25 / MilkDrop v2.25`. ⚠️ Check `STOP WHEN HIDDEN` option is `UNCHECKED`
+ 7. 📢 To Run `MILKDROP 2`: Configure the "Winamp directory" in `SHPECK` for the visualisations: ➡️ `FILE` > `PREFERENCES` > `VISUALISATIONS` > `SHPECK`.
+  Click on the `...` button in the `TOP RIGHT CORNER` to browse and select the directory `FOOBAR_PROFILE_DIRECTORY\Milkdrop\Winamp` and click `AGREE`.
+    + Now, click `MilkDrop v2.25 / MilkDrop v2.25` and click `AGREE`. Then go to the `MilkDrop 2 TAB` of the THEME at `the RIGHT CORNER`. Right click and select `Autostart Plugin` > `MilkDrop v2.25 / MilkDrop v2.25`.
+    + ⚠️ Check `STOP WHEN HIDDEN` option is `UNCHECKED`
 
- 8. 🔵 OPTIONAL: To install some `PRESET PACKS` that are included: Extract `milkdrop 2 presets pack` to __MILKDROP 2__ subfolder `FOOBAR_PROFILE_DIRECTORY\milkdrop 2\Winamp\Plugins\milkdrop2\presets`
+ 9. 🔵 OPTIONAL: To install some `PRESET PACKS` that are included: Extract `milkdrop 2 presets pack` to __MILKDROP 2__ subfolder `FOOBAR_PROFILE_DIRECTORY\milkdrop 2\Winamp\Plugins\milkdrop2\presets`
 
 ---------------------------------------------------------------------------------------------------------------
 
