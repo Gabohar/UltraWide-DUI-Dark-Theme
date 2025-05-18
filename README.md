@@ -51,13 +51,14 @@ Compatible only with foobar 32-bit until remaining components will be updated to
  5. Run foobar2000
  6. Extract `UltraWide DUI Dark Theme vX.x.fth` from the `ZIP` and `import` in `FILE` > `PREFERENCES` > `DEFAULT USER INTERFACE` > `IMPORT THEME` or `DRAG & DROP` the `FILE` to foobar2000 `MAIN WINDOW`.
  7. 📢 To Run `MILKDROP 2`: Download it from <a href="https://github.com/Gabohar/UltraWide-DUI-Dark-Theme/releases" target="_blank">HERE</a> ➡️ Extract the folder to your foobar `profile` directory
- 8. Configure the "Winamp directory" in `SHPECK` for the visualisations: ➡️ `FILE` > `PREFERENCES` > `VISUALISATIONS` > `SHPECK`
+ 8. Donwload and Install `DirectX End-User Runtime` from <a href="https://www.microsoft.com/en-us/download/details.aspx?id=35" target="_blank">HERE</a>
+ 9. Configure the "Winamp directory" in `SHPECK` for the visualisations: ➡️ `FILE` > `PREFERENCES` > `VISUALISATIONS` > `SHPECK`
     Click on the `...` button in the `TOP RIGHT CORNER` to browse and select the directory `FOOBAR_PROFILE_DIRECTORY\milkdrop v2.25c\winamp` and click `OK`
- 9. + Now, click `MilkDrop v2.25c / MilkDrop v2.25c` and click `OK`. Then go to the `MilkDrop 2 TAB` of the `THEME` at `the RIGHT CORNER`. Right click and select `Autostart Plugin` > `MilkDrop v2.25c / MilkDrop v2.25c`
+ 10. + Now, click `MilkDrop v2.25c / MilkDrop v2.25c` and click `OK`. Then go to the `MilkDrop 2 TAB` of the `THEME` at `the RIGHT CORNER`. Right click and select `Autostart Plugin` > `MilkDrop v2.25c / MilkDrop v2.25c`
     + ⚠️ Check `STOP WHEN HIDDEN` option is `UNCHECKED`
- 10. 🔵 OPTIONAL: To install some `PRESETS`: Extract `milkdrop 2 presets pack` from <a href="https://mega.nz/file/CIM1mKwT#cur7PuCcy_t7dBXK13zzcuc9X5LyaApNLqCZ97QWwGQ" target="_blank">HERE</a> to `MILKDROP 2` subfolder `FOOBAR_PROFILE_DIRECTORY\milkdrop v2.25c\winamp\plugins\milkdrop2\presets`
+ 11. 🔵 OPTIONAL: To install some `PRESETS`: Extract `milkdrop 2 presets pack` from <a href="https://mega.nz/file/CIM1mKwT#cur7PuCcy_t7dBXK13zzcuc9X5LyaApNLqCZ97QWwGQ" target="_blank">HERE</a> to `MILKDROP 2` subfolder `FOOBAR_PROFILE_DIRECTORY\milkdrop v2.25c\winamp\plugins\milkdrop2\presets`
  
- 11. For Library Tree to work properly, you MUST have your `MUSIC LIBRARY` configured. This theme comes __preconfigured__ to display artists and albums based on a `directory structure`, __not metadata__. You can configure it anyway:
+ 12. For Library Tree to work properly, you MUST have your `MUSIC LIBRARY` configured. This theme comes __preconfigured__ to display artists and albums based on a `directory structure`, __not metadata__. You can configure it anyway:
 
      Click on the `...` button in the `TOP RIGHT CORNER` of any of the 3 columns and then `VIEWS`.
     
@@ -65,15 +66,15 @@ Compatible only with foobar 32-bit until remaining components will be updated to
 
 ## SCRIPTS AND OTHER CONFIGURATIONS:
 
-12. To activate `AlbumArtDownloaderXUI-1.05` on foobar2000 download it from <a href="https://github.com/Gabohar/UltraWide-DUI-Dark-Theme/releases" target="_blank">HERE</a> and __EXTRACT__ the folder to the `profile` directory. Then click `FILE` > `PREFERENCES` > `TOOLS` > `RUN SERVICES`, click `Download Covers` > and in `PATH` add the next __STRING__:
+13. To activate `AlbumArtDownloaderXUI-1.05` on foobar2000 download it from <a href="https://github.com/Gabohar/UltraWide-DUI-Dark-Theme/releases" target="_blank">HERE</a> and __EXTRACT__ the folder to the `profile` directory. Then click `FILE` > `PREFERENCES` > `TOOLS` > `RUN SERVICES`, click `Download Covers` > and in `PATH` add the next __STRING__:
 
 `FOOBAR_PROFILE_DIRECTORY\AlbumArtDownloaderXUI-1.05\AlbumArt.exe /ar "%album artist%" /al "%album%" /p "$replace(%path%,%filename_ext%,)%artist% - %album%.%%extension%%" /minSize 300 /coverType front`. Then click `OK`
 
-13. To run `AlbumArtDownloaderXUI-1.05` on foobar2000: __Right click__ an _album_ or _track_ in your _PLAYLIST_ and click on `Run Service` > `Download Covers` ⏬
-14. Go to `FILE` > `PREFERENCES` and on `OPENLYRICS` component go to `SEARCH SOURCES` > `LOCAL FILES` and `MAKE` a subfolder in the `"profile"` folder to `DOWNLOAD AND SAVE 💾` the `LYRICS 🎵`
+14. To run `AlbumArtDownloaderXUI-1.05` on foobar2000: __Right click__ an _album_ or _track_ in your _PLAYLIST_ and click on `Run Service` > `Download Covers` ⏬
+15. Go to `FILE` > `PREFERENCES` and on `OPENLYRICS` component go to `SEARCH SOURCES` > `LOCAL FILES` and `MAKE` a subfolder in the `"profile"` folder to `DOWNLOAD AND SAVE 💾` the `LYRICS 🎵`
 
     In the same way, in `SEARCH SOURCES` you can order the different websites, local files or metadata tags to get the `LYRICS 🎵`
-15. Enjoy!
+16. Enjoy!
 
 ## CREDITS
 
