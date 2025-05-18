@@ -82,14 +82,14 @@ Compatible only with foobar 32-bit until remaining components will be updated to
 - <a href="https://github.com/MordredKLB" target="_blank">MordredKLB</a> Enhanced Playback Statistics, MusicBrainz Tagger
 - <a href="https://github.com/marc2k3" target="_blank">marc2k3</a> original foo_jscript_panel, Last.fm Playcount Sync
 - <a href="https://hydrogenaudio.org/index.php/topic,124571.0.html" target="_blank">razielanarki</a> On-Screen Display
-- <a href="https://github.com/D3zmodos" target="_blank">D3zmodos</a> OpenLyrics
+- <a href="https://github.com/jacquesh" target="_blank">Jacques Heunis</a> OpenLyrics
 - <a href="http://www.byalexv.co.uk/" target="_blank">Alex Vallat</a> AlbumArtDownloaderXUI
 - <a href="https://github.com/gix" target="_blank">gix</a> foo_scrobble
 - <a href="https://github.com/foosion" target="_blank">foosion</a> Shorten decoder
 - <a href="https://github.com/Yirkha" target="_blank">Yirkha</a> SHPECK
 - <a href="https://www.geisswerks.com/" target="_blank">Ryan Geiss</a> Original MilkDrop author and curator of `favorite_presets_2021_01_03`
 - <a href="https://github.com/TheQwertiest" target="_blank">TheQwertiest</a> Spider Monkey Panel, which powers most of this theme foo_spider_monkey_panel
-- <a href="https://github.com/Case" target="_blank">Case</a> Waveform Minibar (mod), TAK Decoder, Taskbar Playback Progress Bar, TTA Audio Decoder  
+- <a href="https://hydrogenaud.io/index.php?action=profile;u=322" target="_blank">Case</a> Waveform Minibar (mod), TAK Decoder, Taskbar Playback Progress Bar, TTA Audio Decoder  
 - <a href="https://github.com/WilB" target="_blank">WilB</a> Library Tree Panel, Biography Panel
 - <a href="https://www.patreon.com/posts/pack-nestdrop-91682111" target="_blank">ISOSCELES</a> MilkDrop 2 Preset Packs
 - <a href="https://forums.winamp.com/forum/visualizations/milkdrop/milkdrop-presets/309644-waltra-milkdrop-preset-pack-77-presets" target="_blank">Waltra</a> MilkDrop 2 Preset Pack
