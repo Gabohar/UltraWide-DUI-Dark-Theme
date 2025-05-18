@@ -69,11 +69,11 @@ Compatible only with foobar 32-bit until remaining components will be updated to
 
 `FOOBAR_PROFILE_DIRECTORY\AlbumArtDownloaderXUI-1.05\AlbumArt.exe /ar "%album artist%" /al "%album%" /p "$replace(%path%,%filename_ext%,)%artist% - %album%.%%extension%%" /minSize 300 /coverType front`. Then click `OK`
 
-14. To run `AlbumArtDownloaderXUI-1.05` on foobar2000: __Right click__ an _album_ or _track_ in your _PLAYLIST_ and click on `Run Service` > `Download Covers` ⏬
-15. Go to `FILE` > `PREFERENCES` and on `OPENLYRICS` component go to `SEARCH SOURCES` > `LOCAL FILES` and `MAKE` a subfolder in the `"profile"` folder to `DOWNLOAD AND SAVE 💾` the `LYRICS 🎵`
+13. To run `AlbumArtDownloaderXUI-1.05` on foobar2000: __Right click__ an _album_ or _track_ in your _PLAYLIST_ and click on `Run Service` > `Download Covers` ⏬
+14. Go to `FILE` > `PREFERENCES` and on `OPENLYRICS` component go to `SEARCH SOURCES` > `LOCAL FILES` and `MAKE` a subfolder in the `"profile"` folder to `DOWNLOAD AND SAVE 💾` the `LYRICS 🎵`
 
     In the same way, in `SEARCH SOURCES` you can order the different websites, local files or metadata tags to get the `LYRICS 🎵`
-17. Enjoy!
+15. Enjoy!
 
 ## CREDITS
 
